@@ -10,3 +10,9 @@ To load this extension, download this repository and exact it to any folder and 
 - Click the LOAD UNPACKED button and select the extension directory.
 
 ![UI](ui.jpg "Simply input the minutes and purpose to set the reminder!").
+
+:exclamation: For Edge users, if you do not see the notifications, please try this:  
+
+> Open Chrome > Go chrome://flags > Search Enable native notifications > Change it to Disabled > Relaunch Chrome
+
+[StackOverflow](https://stackoverflow.com/a/62501750)
